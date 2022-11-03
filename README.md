@@ -1,3 +1,3 @@
-# Belajar-MBC
+# Learn-MBC
 learning about version control
-pertemuan kedua rekruitasi MBC mempelajari tentang git dan github
+MBC recruitment second meeting learn about git and github 
